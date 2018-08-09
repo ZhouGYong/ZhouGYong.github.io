@@ -1,13 +1,15 @@
-#½éÉÜ
+#Cordova¿çÆ½Ì¨¿ª·¢ÈëÃÅ
+
+##½éÉÜ
 Apache CordovaÊÇ¿çÆ½Ì¨Ó¦ÓÃ¿ª·¢Æ½Ì¨£¬Ê¹ÓÃÆ½Ì¨ÎÞ¹ØµÄwebÇ°¶Ë¼¼ÊõÈçHTML5, javascriptºÍCSSµÈ, Í¬Ê±Ìá¹©ÁË·ÃÎÊ²Ù×÷ÏµÍ³µ×²ãµÄÇÅÁº¡£
 
 Apache CordovaÖ§³ÖÁ½ÖÖÓ¦ÓÃÀàÐÍ
-##ÅÖ¿Í»§¶Ë
+###ÅÖ¿Í»§¶Ë
 Ö±½ÓÔÚclient sideÓ¦ÓÃHTML5¹¹ÔìÒ³Ãæ£¬Ó¦ÓÃjavascript¿ª·¢ºóÌ¨Âß¼­£¬¼È¿ÉÊÇÒ»¸ö±¾µØ¶ÀÁ¢ÔËÐÐµÄApp£¬Ò²Ö§³ÖÍ¨¹ýajax·ÃÎÊinternet web apiµÄ·þÎñ¡£ 
-##ÊÝ¿Í»§¶Ë
+###ÊÝ¿Í»§¶Ë
 client side½öÅäÖÃÒ»¸ö³õÊ¼Á´½Ó£¬È»ºóµ÷ÓÃInAppBrowser´ò¿ªÁ¬½Ó£¬È»ºóËùÓÐ²Ù×÷¶¼»ùÓÚÔ¶³ÌwebÒ³Ãæ¡£ÕâÖÖ·½Ê½¿ÉÒÔºÜ·½±ãµÄ°ÑÒ»¸öÏÖÓÐµÄweb applicationÖ±½Ówrap³ÉÒ»¸öÔ­ÉúApp£¬Ö»ÒªÍøÒ³¿ÉÊÊÅäÒÆ¶¯¶ËµÄÐ¡ÆÁÄ»¡£
 
-#°²×°
+##°²×°
   `npm install -g cordova`
   `cordova create MyApp`
   `cd MyApp `
@@ -15,7 +17,7 @@ client side½öÅäÖÃÒ»¸ö³õÊ¼Á´½Ó£¬È»ºóµ÷ÓÃInAppBrowser´ò¿ªÁ¬½Ó£¬È»ºóËùÓÐ²Ù×÷¶¼»ùÓÚÔ
   `cordova run android`
 ÐèÒªÏÈÅäÖÃºÃ¶ÔÓ¦Æ½Ì¨µÄ±àÒë²¿Êð»·¾³£¬ÀýÈçandroidÐèÒªÏÈ°²×°android studioµÈ¡£×îºóÒ»ÐÐÃüÁî»áÖ±½Ó°Ñ±àÒëºÃµÄapk²¿Êðµ½android¶Ë£¬²¢Æô¶¯Ö´ÐÐ¡£
 
-#ÅäÖÃ
+##ÅäÖÃ
 ÔÚÉÏÃæ´´½¨µÄMyAppÄ¿Â¼ÏÂ£¬Ö÷Òª¹Ø×¢config.xml
 
 ```<?xml version='1.0' encoding='utf-8'?>
